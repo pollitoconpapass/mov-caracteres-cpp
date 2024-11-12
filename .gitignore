@@ -1,0 +1,22 @@
+# Folders
+.vs/
+x64/
+x86/
+Debug/
+Release/
+ipch/
+obj/
+
+# File types
+*.suo
+*.user
+*.ipch
+*.pch
+*.log
+*.tlog
+*.obj
+*.exe
+*.dll
+*.pdb
+*.idb
+*.opendb
